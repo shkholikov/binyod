@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shakhzodzhan/binyod-website.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Shakhzodzhan/binyod-website.git/static/js/main.2f224c12.chunk.js",
+    "main.js.map": "/Shakhzodzhan/binyod-website.git/static/js/main.2f224c12.chunk.js.map",
+    "runtime-main.js": "/Shakhzodzhan/binyod-website.git/static/js/runtime-main.ce2cbc7e.js",
+    "runtime-main.js.map": "/Shakhzodzhan/binyod-website.git/static/js/runtime-main.ce2cbc7e.js.map",
+    "static/js/2.a9f60531.chunk.js": "/Shakhzodzhan/binyod-website.git/static/js/2.a9f60531.chunk.js",
+    "static/js/2.a9f60531.chunk.js.map": "/Shakhzodzhan/binyod-website.git/static/js/2.a9f60531.chunk.js.map",
+    "index.html": "/Shakhzodzhan/binyod-website.git/index.html",
+    "precache-manifest.33994db870ad36a05e4a4ba37191af75.js": "/Shakhzodzhan/binyod-website.git/precache-manifest.33994db870ad36a05e4a4ba37191af75.js",
+    "service-worker.js": "/Shakhzodzhan/binyod-website.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Shakhzodzhan/binyod-website.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a9f60531.chunk.js.LICENSE.txt": "/Shakhzodzhan/binyod-website.git/static/js/2.a9f60531.chunk.js.LICENSE.txt",
+    "static/media/binyod.png": "/Shakhzodzhan/binyod-website.git/static/media/binyod.4d295ea8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce2cbc7e.js",
+    "static/js/2.a9f60531.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2f224c12.chunk.js"
+  ]
+}
