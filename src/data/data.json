@@ -1,0 +1,181 @@
+{
+  "Header": {
+    "title": "We are a Binyod",
+    "paragraph": "Binyod provides expert Information Technology solutions in the Houston, TX area. Binyod’s experts are Cisco certified engineers with a focus on customer service. We can develop IT security solutions, cloud computing solutions, VOIP services, content filtering and provide consultation to develop unique solutions appropriate for your business needs."
+  },
+  "CompanyPage": {
+    "banner": "Get to know Binyod"
+  },
+  "WhyBinyodPage": {
+    "banner": "Why Binyod?"
+  },
+  "ServicesPage": {
+    "banner": "Our Services"
+  },
+  "ContactPage": {
+    "banner": "Contact"
+  },
+  "ResourcePage": {
+    "banner": "Resource"
+  },
+  "About": {
+    "paragraph": "Information Technology is integral to every business, its integration, management and upkeep can be time and resource consuming for businesses across industries. Managing technology can be a full time responsibility, shifting attention and resources from core business activities. Partnering with Binyod to manage and implement IT saves you and your business the stress and hassle, so you can focus on your business.",
+    "Why": [
+      "Computer and Network Consulting",
+      "Planning",
+      "Design"
+    ],
+    "Why2": [
+      "Implementation",
+      "Maintenance",
+      "Management",
+      "Procurement"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-cogs",
+      "name": "Managed IT Services",
+      "text": "Let Binyod focus on your IT needs, so you can focus on your core business."
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "Cloud Computing",
+      "text": "Let us secure your organization’s workload through a secure cloud environment."
+    },
+    {
+      "icon": "fa fa-shield",
+      "name": "Network Security",
+      "text": "Protect your network through firewalls and content filtering, IDS/IPS systemsю"
+    },
+    {
+      "icon": "fa fa-certificate",
+      "name": "Cisco Technologies",
+      "text": "Our staff is CISCO certified and ready to help you configure and maintain routers &amp; switches."
+    },
+    {
+      "icon": "fa fa-server",
+      "name": "Virtualization Services",
+      "text": "Set up your virtual server to optimize your business."
+    },
+    {
+      "icon": "fa fa-phone-square",
+      "name": "On-site & Cloud VoIP",
+      "text": "Streamline your business’ phone systems through VoIP service."
+    },
+    {
+      "icon": "fa fa-database",
+      "name": "Data Backup & Recovery",
+      "text": "Data is vital to business. We Recover, restore, and back-up vital business data."
+    },
+    {
+      "icon": "fa fa-h-square",
+      "name": "IT Consulting & Hosting",
+      "text": "BinYod can help implement new technology or update your current system."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "9800 Centre Parkway, Suite 615 Houston, TX 77036",
+    "phone": "+1-713-955-8324",
+    "email": "info@binyod.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-cogs",
+      "title": "Managed IT Services",
+      "text": "Let Binyod focus on your IT needs, so you can focus on your core business."
+    },
+    {
+      "icon": "fa fa-cloud",
+      "title": "Cloud Computing Services",
+      "text": "Let us secure your organization’s workload through a secure cloud environment."
+    },
+    {
+      "icon": "fa fa-shield",
+      "title": "Network Security",
+      "text": "Protect your network through firewalls and content filtering, IDS/IPS systemsю"
+    },
+    {
+      "icon": "fa fa-certificate",
+      "title": "Cisco Technologies",
+      "text": "Our staff is CISCO certified and ready to help you configure and maintain routers &amp; switches."
+    },
+    {
+      "icon": "fa fa-server",
+      "title": "Virtualization Services",
+      "text": "Set up your virtual server to optimize your business."
+    },
+    {
+      "icon": "fa fa-phone-square",
+      "title": "On-site & Cloud VoIP",
+      "text": "Streamline your business’ phone systems through VoIP service."
+    },
+    {
+      "icon": "fa fa-database",
+      "title": "Data Backup & Recovery",
+      "text": "Data is vital to business. We Recover, restore, and back-up vital business data."
+    },
+    {
+      "icon": "fa fa-h-square",
+      "title": "IT Consulting & Hosting",
+      "text": "BinYod can help implement new technology or update your current system."
+    }
+  ]
+}
